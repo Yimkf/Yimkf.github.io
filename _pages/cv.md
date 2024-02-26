@@ -32,7 +32,7 @@ Skills
 * Electrical Muscle Stimulation
   * Actuating gestures based on electrical muscle stimulation
   * Performing experiment on human hands of different people
-* Deep learning model on gesture recognition
+* Deep learning in human computer interaction
 * Building experiment environment combined with several softwares and hardwares in Unity
 * Designing experiment comparing several interaction techniques
 
