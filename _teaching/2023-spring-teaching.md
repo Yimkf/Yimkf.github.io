@@ -10,11 +10,3 @@ location: "Guangzhou, China"
 
 I worked as a teaching assistant with [Pro.f Jin](https://www2.scut.edu.cn/ft/2021/1127/c29779a452822/page.htm) in this course.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

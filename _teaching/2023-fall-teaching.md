@@ -11,11 +11,3 @@ location: "Guangzhou, China"
 
 I worked as a teaching assistant with [Pro.f Wu](https://www2.scut.edu.cn/ft/2021/1102/c29779a480504/page.htm) in this course.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
