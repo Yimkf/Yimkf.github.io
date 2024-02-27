@@ -29,6 +29,7 @@ Education
 
 Skills
 ======
+* Python,Matlab, C#,C++,VHDL,Unity3D,Quartus,Multism,Opensim
 * Electrical Muscle Stimulation
   * Actuating gestures based on electrical muscle stimulation
   * Performing experiment on human hands of different people
