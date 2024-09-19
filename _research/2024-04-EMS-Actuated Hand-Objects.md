@@ -9,7 +9,7 @@ permalink: /research/2024-04-EMS-Actuated Hand-Objects
 # location: "Guangzhou, China"
 ---
 Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
-Contributions :
+My Contributions :
 1.  A novel concept of leveraging the loss of SoA caused by EMS to make the stimulated hand serve better as a virtual
 object
 
