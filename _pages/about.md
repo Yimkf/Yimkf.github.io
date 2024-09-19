@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [School of EE](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/). 
+Hello! I'm a third year graduate student from [School of EE](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/). 
 
 I am actively seeking admission to a Ph.D. program focused on human-computer interaction, including wearable computing, touch and haptic interfaces and electrical muscle stimulation(EMS).
 
