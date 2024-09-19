@@ -1,12 +1,12 @@
 ---
 title: "UIST 2024 Project：EMS-Actuated Hand-Objects"
 collection: research
-permalink: /research/2024-04-05-EMS-Actuated Hand-Objects
-excerpt: 'This paper is about using EMS to actuate several gestures.'
-date: 2024-04-05
-venue: 'UIST'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-# citation: 'Jianhui YAN. (2024). &quot;EMS-Gestures&quot; <i>2024CSCW</i>. '
+# type: "Undergraduate course"
+permalink: /research/2024-04-EMS-Actuated Hand-Objects
+# venue: "South China University 
+# of Technology, School of Future Technology"
+# date: 2023-02-28
+# location: "Guangzhou, China"
 ---
 Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
 Contributions :
@@ -19,6 +19,3 @@ inducing users to pose 8 gestures with it
 3.  An interaction system that combined EMS actuation, deep learning model, and data glove to enable users to perform
 gestural object retrieval tasks and be involved in interactive scenarios easily and immersively
 
-<!-- [Download example video here](http://academicpages.github.io/files/paper3.pdf) -->
-
-<!-- Recommended citation: Jianhui YAN. (2024). &quot;EMS-Gestures&quot; <i>2024CSCW</i>. -->
