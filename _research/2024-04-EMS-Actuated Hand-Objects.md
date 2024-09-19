@@ -26,13 +26,13 @@ inducing users to pose 8 gestures with it
 This figure shows the electrode layout we provided, where each finger has an electrode attached to it, responsible for actuating that finger.
 ![Electrode layout](../assets/images/Muscle.png)
 
-This figure shows 8 examples of actuating gestures via EMS and the corresponding virtual object.
+This figure shows 8 examples of actuating gestures via EMS and the virtual object corresponding to the gesture.
 ![Gestures actuated by EMS and the corresponding virtual object](../assets/images/EMSGesturesandObjects.png)
 
 This figure shows how to recognize these gestures using the data from data glove and simple neural network.
 ![Using data from data glove to recognize gestures](../assets/images/GestureRecognition.png)
 
-Here is a demo video of the system in action:
+Here is a demo video of the system:
 
 <video width="600" controls>
   <source src="/assets/Videos/ExampleVideos.mp4" type="video/mp4">
