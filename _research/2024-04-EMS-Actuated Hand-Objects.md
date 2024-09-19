@@ -14,14 +14,14 @@ permalink: /research/2024-04-EMS-Actuated Hand-Objects
 Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
 
 My Contributions :
-1.  A novel concept of leveraging the loss of SoA caused by EMS to make the stimulated hand serve better as a virtual
+1.  A **novel concept** of **leveraging the loss of SoA** caused by EMS to make the stimulated hand serve better as a virtual
 object
 
-2. Proposal of a highly reproducible electrode layout with a clear anatomical guide for actuating fingers via EMS and
+2. Proposal of a highly reproducible **electrode layout** with a clear anatomical guide for actuating fingers via EMS and
 inducing users to pose 8 gestures with it
 
-3.  An interaction system that combined EMS actuation, deep learning model, and data glove to enable users to perform
-gestural object retrieval tasks and be involved in interactive scenarios easily and immersively
+3.  An interaction system that **combined EMS actuation, deep learning model, and data glove** to enable users to perform
+**gestural object retrieval tasks** and be involved in **interactive scenarios** easily and immersively
 
 This figure shows the electrode layout we provided, where each finger has an electrode attached to it, responsible for actuating that finger.
 ![Electrode layout](../assets/images/Muscle.png)

@@ -20,7 +20,7 @@ Human Computer Interaction (HCI), Wearable Haptic System, Virtual/Augmented Real
 
 Education
 ======
-* B.S. Information Engineering, GPA: 3.71/4.0, Ranking: 4/16,South China University of technology, 2018-2022
+* B.S. Information Engineering, **GPA: 3.71/4.0**, **Ranking: 4/16**,South China University of technology, 2018-2022
 * M.S. Electronic information, South China University of technology, 2022-present
 * Research Intern, under [Pro.f Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) supervision, Human Interaction Lab at Saarland University, 06/2024-09/2024
 
