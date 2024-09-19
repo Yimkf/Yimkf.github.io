@@ -13,5 +13,5 @@ My research interest includes Human Computer Interaction (HCI), Wearable Haptic 
 
 I am advised by [Prof. Lin Shu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449585/page.htm) from [School of Future Technology](https://www2.scut.edu.cn/ft/), South China University of technology.
 
-You can find my CV here: [Yimkf's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
