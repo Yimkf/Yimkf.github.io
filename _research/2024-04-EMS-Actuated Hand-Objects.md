@@ -23,13 +23,13 @@ inducing users to pose 8 gestures with it
 3.  An interaction system that combined EMS actuation, deep learning model, and data glove to enable users to perform
 gestural object retrieval tasks and be involved in interactive scenarios easily and immersively
 
-The electrode layout we provided, in which each finger is attached to an electrode.
+This figure shows the electrode layout we provided, where each finger has an electrode attached to it, responsible for actuating that finger.
 ![Electrode layout](../assets/images/Muscle.png)
 
-We show 8 examples of actuating gestures via EMS and the corresponding virtual object.
+This figure shows 8 examples of actuating gestures via EMS and the corresponding virtual object.
 ![Gestures actuated by EMS and the corresponding virtual object](../assets/images/EMSGesturesandObjects.png)
 
-We show how to recognize these gestures using the data from data glove and simple neural network.
+This figure shows how to recognize these gestures using the data from data glove and simple neural network.
 ![Using data from data glove to recognize gestures](../assets/images/GestureRecognition.png)
 
 Here is a demo video of the system in action:

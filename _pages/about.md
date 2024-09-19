@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I'm a third year graduate student from [School of EE](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/). 
+I am actively seeking admission to a Ph.D. program focused on human-computer interaction, including wearable computing, touch and haptic interfaces and electrical muscle stimulation(EMS).
 
 I am advised by [Prof. Lin Shu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449585/page.htm) from [School of Future Technology](https://www2.scut.edu.cn/ft/), South China University of technology.
 
@@ -15,7 +16,7 @@ You can find my CV here: [Jianhui's Curriculum Vitae](../assets/Curriculum_Vitae
 
 Research Interests
 ======
-* Human Computer Interaction (HCI), Wearable Haptic System, Virtual/Augmented Reality (VR/AR), Force Feedback
+Human Computer Interaction (HCI), Wearable Haptic System, Virtual/Augmented Reality (VR/AR), Force Feedback
 
 Education
 ======
@@ -60,8 +61,15 @@ Languages
 * Cantonese: Native 
 * French: A1
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+Teaching Assistant
+======
+* Digital system design
+  * Undergraduate course, South China University of Technology, School of Future Technology, 09/2023-12/2023
+* Digital logic circuit
+  * Undergraduate course, South China University of Technology, School of Future Technology, 03/2023-06/2023
