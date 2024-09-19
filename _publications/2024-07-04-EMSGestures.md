@@ -12,4 +12,4 @@ This paper is about using EMS to actuate several gestures.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Jianhui YAN. (2024). &quot;EMS-Gestures&quot; <i>2024CSCW</i>.
+<!-- Recommended citation: Jianhui YAN. (2024). &quot;EMS-Gestures&quot; <i>2024CSCW</i>. -->

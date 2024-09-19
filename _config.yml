@@ -19,7 +19,7 @@ repository               : "Yimkf/Yimkf.github.io"
 author:
   name             : "Jianhui YAN"
   avatar           : "ID.png"
-  bio              : "I am excited"
+  # bio              : "I am excited"
   pronouns         : # example: "she/her"
   location         : "Guangdong"
   orcid            : #"http://orcid.org/yourorcidurl"
