@@ -71,6 +71,8 @@ Languages
 Teaching Assistant
 ======
 * Digital system design
+
 Undergraduate course, South China University of Technology, School of Future Technology, 09/2023-12/2023
 * Digital logic circuit
+
 Undergraduate course, South China University of Technology, School of Future Technology, 03/2023-06/2023
