@@ -49,7 +49,7 @@ Skills
 * Computer Skills
   * Unity3D(C#), Python, Git, Matlab, Arduino
 
-Research Interests
+Awards
 ======
 * 2020 National Undergraduate Mathematical Contest in Modeling, 09/2020
   * Second Prize of Guangdong Province

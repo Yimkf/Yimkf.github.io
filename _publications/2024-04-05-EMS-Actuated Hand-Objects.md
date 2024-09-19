@@ -3,8 +3,8 @@ title: "UIST 2024 Project：EMS-Actuated Hand-Objects"
 collection: research
 permalink: /research/2024-04-05-EMS-Actuated Hand-Objects
 excerpt: 'This paper is about using EMS to actuate several gestures.'
-date: 2024-04-05
-venue: 'UIST'
+# date: 2024-04-05
+# venue: 'UIST'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Jianhui YAN. (2024). &quot;EMS-Gestures&quot; <i>2024CSCW</i>. '
 ---
