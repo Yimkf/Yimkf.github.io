@@ -9,8 +9,13 @@ permalink: /research/2024-04-EMS-Actuated Hand-Objects
 # location: "Guangzhou, China"
 ---
 
-![EMS-Actuated Hand-Objects](assets/images/TeaserPicture.jpg)
+![EMS-Actuated Hand-Objects](assets/images/TeaserPicture.png)
 
+![Electrode layout](assets/images/Muscle.png)
+
+![Gestures actuated by EMS and the corresponding virtual object](assets/images/EMSGesturesandObjects.png)
+
+![Using data from data glove to recognize gestures](assets/images/GestureRecognition.png)
 
 Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
 
