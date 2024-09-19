@@ -19,3 +19,9 @@ inducing users to pose 8 gestures with it
 3.  An interaction system that combined EMS actuation, deep learning model, and data glove to enable users to perform
 gestural object retrieval tasks and be involved in interactive scenarios easily and immersively
 
+Here is a demo video of the system in action:
+
+<video width="600" controls>
+  <source src="/assets/Videos/ExampleVideos.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
