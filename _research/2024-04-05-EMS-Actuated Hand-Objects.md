@@ -1,7 +1,7 @@
 ---
 title: "UIST 2024 Project：EMS-Actuated Hand-Objects"
 collection: research
-permalink: /research/2024-07-04-EMSGestures
+permalink: /research/2024-04-05-EMS-Actuated Hand-Objects
 excerpt: 'This paper is about using EMS to actuate several gestures.'
 date: 2024-04-05
 venue: 'UIST'
