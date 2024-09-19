@@ -9,9 +9,9 @@ permalink: /research/2024-04-EMS-Actuated Hand-Objects
 # location: "Guangzhou, China"
 ---
 
-![EMS-Actuated Hand-Objects](assets/images/TeaserPicture.png)
+![EMS-Actuated Hand-Objects](../assets/images/TeaserPicture.png)
 
-![Electrode layout](assets/images/Muscle.png)
+![Electrode layout](../assets/images/Muscle.png)
 
 ![Gestures actuated by EMS and the corresponding virtual object](assets/images/EMSGesturesandObjects.png)
 
