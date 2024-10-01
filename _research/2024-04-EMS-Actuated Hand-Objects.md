@@ -11,8 +11,6 @@ permalink: /research/2024-04-EMS-Actuated Hand-Objects
 
 ![EMS-Actuated Hand-Objects](../assets/images/TeaserPicture.png)
 
-Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
-
 My Contributions :
 1.  A **novel concept** of **leveraging the loss of SoA** caused by EMS to make the stimulated hand serve better as a virtual
 object
@@ -38,3 +36,5 @@ Here is a demo video of the system:
   <source src="/assets/Videos/ExampleVideos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
