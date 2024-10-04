@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Jianhui YAN, a third year graduate student from [School of Electronic and Information Engineering](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/). 
 
-I am actively seeking admission to a Ph.D. program focused on human-computer interaction, including wearable computing, touch and haptic interfaces and electrical muscle stimulation(EMS).
+I am actively seeking admission to a Ph.D. program focused on human-computer interaction, including Wearable Haptic System, Virtual/Augmented Reality (VR/AR), Force Feedback.
 
 I am advised by [Prof. Lin Shu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449585/page.htm) from [School of Future Technology](https://www2.scut.edu.cn/ft/), South China University of technology.
 
@@ -76,3 +76,9 @@ Undergraduate course, South China University of Technology, School of Future Tec
 * Digital logic circuit
 
 Undergraduate course, South China University of Technology, School of Future Technology, 03/2023-06/2023
+
+Service
+======
+* Student Volunteer
+
+EuroHaptic 2024, Lille, France, 07/2024
