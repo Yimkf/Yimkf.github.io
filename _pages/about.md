@@ -60,6 +60,7 @@ Languages
 ======
 * English: IELTS 7
 * Cantonese: Native 
+* Mandarin: Native 
 * French: A1
 
 <!-- Teaching
