@@ -52,7 +52,7 @@ Skills
   * Actuating gestures based on electrical muscle stimulation
   * Performing experiment on human hands of different people
 * Computer Skills
-  * Unity3D(C#), Python, Git, Matlab, Arduino, Neural Network
+  * Unity3D(C#), Python, Git, Matlab, Arduino, Deep Learning(Basic)
 
 Awards
 ======
