@@ -1,15 +1,15 @@
 ---
-title: "UIST 2024 Project：EMS-Actuated Hand-Objects"
+title: "UIST 2024 Project：EMS Hand Prop"
 collection: research
 # type: "Undergraduate course"
-permalink: /research/2024-04-EMS-Actuated Hand-Objects
+permalink: /research/2024-04-EMS Hand Prop
 # venue: "South China University 
 # of Technology, School of Future Technology"
 # date: 2023-02-28
 # location: "Guangzhou, China"
 ---
 
-![EMS-Actuated Hand-Objects](../assets/images/TeaserPicture.png)
+![EMS Hand Prop](../assets/images/TeaserPicture.png)
 
 My Contributions :
 1.  A **novel concept** of **leveraging the loss of SoA** caused by EMS to make the stimulated hand serve better as a virtual
