@@ -27,15 +27,15 @@ Education
 
 Publication
 ======
- Under Review
- [1] EMS Hand Prop: Leveraging the Loss of SoA Caused by EMS to Make Hands Serve Better as Virtual Objects 
- **Jianhui Yan**, Jiesi Zhang, Haoqiang Hua, Wenxuan Wu, Hongnan Lin, Qiwei Xiong, Jianxiu Jin, Lin Shu.
- Submitted to the [Internation Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
+ * Under Review
+   * [1] EMS Hand Prop: Leveraging the Loss of SoA Caused by EMS to Make Hands Serve Better as Virtual Objects 
+   * **Jianhui Yan**, Jiesi Zhang, Haoqiang Hua, Wenxuan Wu, Hongnan Lin, Qiwei Xiong, Jianxiu Jin, Lin Shu.
+   * Submitted to the [Internation Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
 
- Rejected and preparing for resubmission
- [2] CHI 2025 Paper:  A Mobile and Wearable Haptic Device (Confidential)
- Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle. 
- Working with [Arata Jingu](https://ajingu.github.io/) under Prof. Jürgen Steimle's supervision as a co-author, finally submitted a paper to CHI 2025, but got rejected. The paper is **confidential** as we are working on it currently.
+ * Rejected and preparing for resubmission
+   * [2] CHI 2025 Paper:  A Mobile and Wearable Haptic Device (Confidential)
+   * Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle. 
+   * Working with [Arata Jingu](https://ajingu.github.io/) under Prof. Jürgen Steimle's supervision as a co-author, finally submitted a paper to CHI 2025, but got rejected. The paper is **confidential** as we are working on it currently.
 
 Research Projects
 ======
