@@ -37,4 +37,4 @@ Here is a demo video of the system:
   Your browser does not support the video tag.
 </video>
 
-Unfortunately, our paper is rejected after rebuttal. Currently, we are preparing for next submission.
+Unfortunately, our paper is rejected after rebuttal. Currently, we are submitting it to [Internation Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
