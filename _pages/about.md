@@ -37,7 +37,7 @@ Publication
    * Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle. 
    * Working with [Arata Jingu](https://ajingu.github.io/) under Prof. Jürgen Steimle's supervision as a co-author, finally submitted a paper to CHI 2025, but got rejected. The paper is **confidential** as we are working on it currently.
 
-Research Projects
+Research Experience
 ======
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}

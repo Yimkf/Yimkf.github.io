@@ -1,5 +1,5 @@
 ---
-title: "UIST 2024 Project：EMS Hand Prop"
+title: "UIST 2024 ：EMS Hand Prop"
 collection: research
 # type: "Undergraduate course"
 permalink: /research/2024-04-EMS Hand Prop
