@@ -1,5 +1,5 @@
 ---
-title: "UIST 2024 ：EMS Hand Prop"
+title: "EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Make Hands Serve Better as Virtual Objects"
 collection: research
 # type: "Undergraduate course"
 permalink: /research/2024-04-EMS Hand Prop
