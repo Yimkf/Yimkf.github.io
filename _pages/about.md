@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jianhui YAN, a third year graduate student from School of Electronic and Information Engineering, [South China University of Technology](https://www.scut.edu.cn/). 
+Hello! I'm Jianhui Yan, a third year graduate student from School of Electronic and Information Engineering, [South China University of Technology](https://www.scut.edu.cn/). 
 
 I am actively seeking admission to a Ph.D. program focused on human-computer interaction, including Wearable Haptic System, Virtual/Augmented Reality (VR/AR), Force Feedback.
 
@@ -22,20 +22,22 @@ Human Computer Interaction (HCI), Wearable Haptic System, Virtual/Augmented Real
 Education
 ======
 * B.S. Information Engineering, **GPA: 3.71/4.0**, South China University of technology, 09/2018-06/2022
-* M.S. Electronic information, South China University of technology, 09/2022-present
+* M.S. Electronic information, South China University of technology, 09/2022-06/2025
 * Research Intern, under [Pro.f Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) supervision, Human Interaction Lab at Saarland University, 06/2024-09/2024
 
 Publication
 ======
  * Under Review
-   * EMS Hand Prop: Leveraging the Loss of SoA Caused by EMS to Make Hands Serve Better as Virtual Objects 
+   * EMS Hand Prop: EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Make Hands Serve Better as Virtual Objects 
    * **Jianhui Yan**, Jiesi Zhang, Haoqiang Hua, Wenxuan Wu, Hongnan Lin, Qiwei Xiong, Jianxiu Jin, Lin Shu.
    * Submitted to the [Internation Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
-
- * Rejected and preparing for resubmission
-   * CHI 2025 Paper:  A Mobile and Wearable Haptic Device (Confidential)
+   
+   * HapticPipette: Direct Manipulation for Customizing Touch Sensationsin Mixed-Reality Environments 
    * Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle. 
-   * Working with [Arata Jingu](https://ajingu.github.io/) under Prof. Jürgen Steimle's supervision as a co-author, finally submitted a paper to CHI 2025, but got rejected. The paper is **confidential** as we are working on it currently.
+
+ * Accepted
+   * VirCHEWReality:On-FaceKinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality
+   * Qingqin Liu, Ziqi Fang, Jiayi Wu, Shaoyu Cai, **Jianhui Yan** , and Kening Zhu
 
 Research Experience
 ======
