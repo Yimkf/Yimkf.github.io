@@ -21,8 +21,8 @@ Human–computer interaction, everyday objects interaction, virtual/augmented re
 
 ## Research experience
 
-- **Research Assistant**, MEI Lab, City University of Hong Kong, January–September 2025. Research advisor: [Prof. Kening Zhu](https://zhukening.wixsite.com/aboutme).
-- **Research Intern**, Human Computer Interaction Lab, Saarland University, June–September 2024. Research advisor: [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/).
+- **Research Assistant**, [MEI Lab](https://meilab-hk.github.io/), City University of Hong Kong, January–September 2025. Research advisor: [Prof. Kening Zhu](https://zhukening.wixsite.com/aboutme).
+- **Research Intern**, [Human Computer Interaction Lab](https://hci.cs.uni-saarland.de/), Saarland University, June–September 2024. Research advisor: [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/).
 
 ## Publications
 
