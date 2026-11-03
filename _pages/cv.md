@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 - **Ph.D. in Human–Computer Interaction**, University of Glasgow, January 2026–present. School of Computing Science. Research advisor: [Dr. Florian Weidner](https://florianweidner.de/index.html).
-- **M.S. in Electronic Information Engineering**, South China University of Technology, September 2022–June 2025. School of Electronic and Information Engineering. Research advisor: Prof. Lin Shu.
+- **M.S. in Electronic Information Engineering**, South China University of Technology, September 2022–June 2025. School of Electronic and Information Engineering. Research advisor: [Prof. Lin Shu](https://www2.scut.edu.cn/ft_en/2025/1021/c45325a606223/page.htm).
 - **B.S. in Information Engineering**, South China University of Technology, September 2018–June 2022. GPA: 3.71/4.0.
 
 ## Research interests
