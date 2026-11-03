@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianhui YAN / Homepage"
 title_separator          : "-"
 name                     : &name "Jianhui YAN"
-description              : &description "personal description"
+description              : &description "Jianhui Yan — Ph.D. student in Human-Computer Interaction at the University of Glasgow. Everyday objects interaction, AR/VR, and machine learning."
 url                      : https://Yimkf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yimkf/Yimkf.github.io"
@@ -21,10 +21,10 @@ author:
   avatar           : "ID_2024_09.png"
   # bio              : "I am excited"
   pronouns         : # example: "she/her"
-  location         : "Guangzhou"
+  location         : "Glasgow, Scotland"
   orcid            : #"http://orcid.org/yourorcidurl"
-  employer         :
-  email            : "yimkimfai@gmail.com" 
+  employer         : "University of Glasgow"
+  email            : "3177699Y@student.gla.ac.uk"
   uri              :
 
   # Manuscript repositories

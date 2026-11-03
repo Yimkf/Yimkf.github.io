@@ -1,87 +1,66 @@
 ---
-layout: archive
+layout: academic
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (updated November 2026)]({{ '/assets/Curriculum_Vitae.pdf' | relative_url }})
 
-Education
-======
-* B.S. Information Engineering, GPA: 3.71/4.0, Ranking: 4/16,South China University of technology, 2018-2022
-* M.S. Electronic information, South China University of technology, 2022-present
-* Research Intern, under [Pro.f Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) supervision, Human Interaction Lab at Saarland University, 06/2024-09/2024
+## Education
 
-<!-- Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Ph.D. in Human–Computer Interaction**, University of Glasgow, January 2026–present. School of Computing Science. Research advisor: [Dr. Florian Weidner](https://florianweidner.de/index.html).
+- **M.S. in Electronic Information Engineering**, South China University of Technology, September 2022–June 2025. School of Electronic and Information Engineering. Research advisor: Prof. Lin Shu.
+- **B.S. in Information Engineering**, South China University of Technology, September 2018–June 2022. GPA: 3.71/4.0.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
--->
+## Research interests
 
-Research Interests
-======
-* Human Computer Interaction (HCI), Wearable Haptic System, Virtual/Augmented Reality (VR/AR), Force Feedback
+Human–computer interaction, everyday objects interaction, virtual/augmented reality, and machine learning.
 
-Research Projects
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Research experience
 
+- **Research Assistant**, MEI Lab, City University of Hong Kong, January–September 2025. Research advisor: [Prof. Kening Zhu](https://zhukening.wixsite.com/aboutme).
+- **Research Intern**, Human Computer Interaction Lab, Saarland University, June–September 2024. Research advisor: [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/).
 
-Skills
-======
-* MR Interaction Implementation
-  * Developing built-in Mixed Reality (MR) interaction application for Quest 3
-* Electrical Muscle Stimulation
-  * Actuating gestures based on electrical muscle stimulation
-  * Performing experiment on human hands of different people
-* Computer Skills
-  * Unity3D(C#), Python, Git, Matlab, Arduino
+## Publications
 
-Awards
-======
-* 2020 National Undergraduate Mathematical Contest in Modeling, 09/2020
-  * Second Prize of Guangdong Province
-* 2020 Guangdong Undergraduate Electronic Design Competition, 11/2020
-  * Second Prize
-* Scholarship
-  * National Inspirational Scholarship
-  * 2019 Second-class Scholarship of South China University of Technology
-  * 2020 "Hongping Evergreen Fund" Student Science and Technology Innovation Third-class
-Scholarship (2 items )
-  * Lixin Stipend
+## EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Enhance the Immersion of Hand-as-prop Interactions
 
+**Jianhui Yan**, Jiesi Zhang, Haoqiang Hua, Wenxuan Wu, Hongnan Lin, Qiwei Xiong, Jianxiu Jin, Lin Shu
 
-Languages
-======
-* English: IELTS 7
-* Cantonese: Native 
-* French: A1
+*International Journal of Human-Computer Studies (IJHCS)*
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Project details]({{ '/research/2024-04-EMS%20Hand%20Prop' | relative_url }})
 
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+## HapticPipette: Seamless Capture of Object Compliance in Mixed Reality
+
+Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle
+
+*Augmented Humans International Conference 2026*
+
+[Project details]({{ '/research/2024-09-CHI2025' | relative_url }})
+
+## VirCHEW Reality: On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality
+
+Qingqin Liu, Ziqi Fang, Jiayi Wu, Shaoyu Cai, **Jianhui Yan**, and Kening Zhu
+
+*SIGGRAPH 2025*
+
+## MetaCanvas: A Toolkit for Prototyping Tessellation-Based Shape-Changing Structures by Cut-and-Configure Authoring
+
+Lina Zhang, Zhian Hu, **Jianhui Yan**, Yibin Huai, Ziqi Fang, Kening Zhu
+
+*UIST 2026*
+
+## Skills
+
+- **Software:** Unity3D (C#), AR/VR, Python, Git, MATLAB, machine learning, qualitative and quantitative data analysis.
+- **Hardware:** Electrical muscle stimulation, Arduino, wearable systems, PlatformIO, PCB, ultrasound haptics.
+- **English:** IELTS 7.
+
+## Contact
+
+School of Computing Science, University of Glasgow, Glasgow, Scotland.<br>
+[3177699Y@student.gla.ac.uk](mailto:3177699Y@student.gla.ac.uk)
