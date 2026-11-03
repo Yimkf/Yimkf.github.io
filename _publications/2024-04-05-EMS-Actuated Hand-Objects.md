@@ -1,6 +1,6 @@
 ---
 layout: academic
-title: "EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Enhance the Immersion of Hand-as-prop Interactions"
+title: "EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Make Hands Serve Better as Virtual Objects"
 collection: publications
 permalink: /research/2024-04-05-EMS-Actuated Hand-Objects
 venue: "International Journal of Human-Computer Studies (IJHCS)"

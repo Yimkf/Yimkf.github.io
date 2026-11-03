@@ -12,3 +12,13 @@
 
 
 .publication-note + .publication-note{margin-top:24px}
+
+/* Publication figures retain their full composition at every screen size. */
+.research-visual{min-height:0;padding:10px;background:#fff}
+.research-visual img{height:auto;max-height:270px;object-fit:contain}
+.project-deck{font-size:20px;line-height:1.5;color:var(--muted);margin-bottom:20px}
+.project-figure{margin:35px 0}
+.project-figure img{width:100%;max-height:660px;object-fit:contain;margin:0 auto 14px;background:#fff}
+.project-figure figcaption{font-size:12px;line-height:1.65;color:var(--muted)}
+.project-figure a{display:block;border:1px solid var(--line);padding:12px;border-radius:5px;background:#fff}
+@media(max-width:640px){.project-deck{font-size:17px}.project-figure a{padding:6px}.research-visual img{max-height:300px}}

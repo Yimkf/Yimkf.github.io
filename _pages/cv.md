@@ -26,7 +26,7 @@ Human–computer interaction, everyday objects interaction, virtual/augmented re
 
 ## Publications
 
-## EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Enhance the Immersion of Hand-as-prop Interactions
+## EMS Hand Prop: Leveraging the Loss of Sense of Agency Caused by Electrical Muscle Stimulation to Make Hands Serve Better as Virtual Objects
 
 **Jianhui Yan**, Jiesi Zhang, Haoqiang Hua, Wenxuan Wu, Hongnan Lin, Qiwei Xiong, Jianxiu Jin, Lin Shu
 
@@ -44,15 +44,19 @@ Arata Jingu, **Jianhui Yan**, Maja Fehlberg, Roland Bennewitz, Jürgen Steimle
 
 ## VirCHEW Reality: On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality
 
-Qingqin Liu, Ziqi Fang, Jiayi Wu, Shaoyu Cai, **Jianhui Yan**, and Kening Zhu
+Qingqin Liu, Ziqi Fang, Jiayi Wu, Shaoyu Cai, **Jianhui Yan**, Tiande Mo, Shuk Ching Chan, and Kening Zhu
 
 *SIGGRAPH 2025*
+
+[Project details]({{ '/publications/virchew-reality/' | relative_url | uri_escape }})
 
 ## MetaCanvas: A Toolkit for Prototyping Tessellation-Based Shape-Changing Structures by Cut-and-Configure Authoring
 
 Lina Zhang, Zhian Hu, **Jianhui Yan**, Yibin Huai, Ziqi Fang, Kening Zhu
 
 *UIST 2026*
+
+[Project details]({{ '/publications/metacanvas/' | relative_url | uri_escape }})
 
 ## Skills
 
